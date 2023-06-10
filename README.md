@@ -1,4 +1,4 @@
-## This project is designed with a udemy course. You can see the link to the course at the bottom of the project webpage.
+## This project is designed with a udemy course. You can see the link to the course at the bottom of the project webpage. Unfortunately not a real App.
 
 ![TD](https://github.com/Onur-Unal/TD-Bootstrap-Project/assets/123883506/ef0a0076-c31b-4cfb-ac4e-b97b0e2269f4)
 
